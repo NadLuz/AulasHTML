@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Inserindo imagens</title>
+	</head>
+	<body>
+		<p>Inserir imagem local: </p>
+		<img src="HTML5.svg" alt="logo do html">
+
+		<p>Inserir imagem via link: </p>
+		<img src="" alt="">
+	</body>
+</html
