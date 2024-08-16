@@ -1,6 +1,6 @@
 # 💻 Códigos da aula de HTML
 
-Códigos em html desenvolvido em aula
+Códigos em html desenvolvidos para uso didáticos na aula de Linguagem de marcação
 
 - Minha primeira página web
 - ex01 estruturaBasica do html
@@ -11,3 +11,5 @@ Códigos em html desenvolvido em aula
 - ex06 criando tabela com html
 - ex07 listas ordenadas
 - ex08 listas não ordenadas
+- ex09 formulário simples (clone Google)
+- ex10 formulário com seletores
